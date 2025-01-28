@@ -23,7 +23,7 @@ The script tests the search functionality on the table by searching for "New Yor
     - Ensure that the WebDriver is compatible with your browser version and is added to your system’s PATH.
 
 ## Running the Test
-1. Open the project in PyCharm:
+1. Open the folder in PyCharm:
 
 Using PyCharm, open your project and navigate to the script qa_selenium_test.py.
 Run the Test using Pytest:
